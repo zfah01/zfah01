@@ -48,57 +48,63 @@ My interests span software engineering, data processing, analytics and machine l
 
 ---
 
-## <span style="color:#A78BFA">Featured projects</span>
+## Featured projects
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-<sub><b>01 / ARTIFICIAL INTELLIGENCE</b></sub>
+### 01 / AI & ML
 
-### InsightAI
+**InsightAI**
 
 AI-focused software project.
 
-[View repository →](https://github.com/zfah01/InsightAI)
+[<img src="https://img.shields.io/badge/VIEW%20PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/zfah01/InsightAI)
 
 </td>
 <td width="33%" valign="top">
 
-<sub><b>02 / APPLICATION DEVELOPMENT</b></sub>
+### 02 / DEVELOPMENT
 
-### MoodBites
+**MoodBites**
 
 Application development project.
 
-[View repository →](https://github.com/zfah01/MoodBites)
+[<img src="https://img.shields.io/badge/VIEW%20PROJECT-3776AB?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/zfah01/MoodBites)
 
 </td>
 <td width="33%" valign="top">
 
-<sub><b>03 / SOFTWARE ENGINEERING</b></sub>
+### 03 / ENGINEERING
 
-### Boston Metro System
+**Boston Metro System**
 
 Software engineering and system development project.
 
-[View repository →](https://github.com/zfah01/Boston-Metro-System)
+[<img src="https://img.shields.io/badge/VIEW%20PROJECT-168AAD?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/zfah01/Boston-Metro-System)
 
 </td>
 </tr>
 </table>
 
----
-
 ## GitHub activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=zfah01&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=58A6FF&text_color=C9D1D9" width="49%" alt="GitHub statistics" />
+<img src="https://github-readme-stats.vercel.app/api?username=zfah01&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zfah01&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" width="49%" alt="Top languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zfah01&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 
 <br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=zfah01&theme=tokyonight&hide_border=true" width="80%" />
+
+</div>
+
+---
+
+<div align="center">
 
 **BUILD · LEARN · INNOVATE**
 
