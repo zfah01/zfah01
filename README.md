@@ -92,19 +92,15 @@ Software engineering and system development project.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=zfah01&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+<img src="https://github-stats-extended.vercel.app/api?username=zfah01&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zfah01&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=zfah01&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 
 <br/><br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=zfah01&theme=tokyonight&hide_border=true" width="80%" />
 
-</div>
-
----
-
-<div align="center">
+<br/><br/>
 
 **BUILD · LEARN · INNOVATE**
 
