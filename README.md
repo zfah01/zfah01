@@ -90,16 +90,16 @@ Software engineering and system development project.
 
 ---
 
-## <span style="color:#A78BFA">GitHub activity</span>
+## GitHub activity
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=zfah01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub statistics" />
+<img src="https://github-readme-stats.vercel.app/api?username=zfah01&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=58A6FF&text_color=C9D1D9" width="49%" alt="GitHub statistics" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zfah01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" alt="Top languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zfah01&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" width="49%" alt="Top languages" />
 
 <br/><br/>
 
-**<span style="color:#58A6FF">BUILD · LEARN · INNOVATE</span>**
+**BUILD · LEARN · INNOVATE**
 
 </div>
